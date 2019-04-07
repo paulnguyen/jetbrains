@@ -18,7 +18,7 @@
             </list>
           </option>
           <option name="compatible" value="true" />
-          <option name="courseMode" value="Study" />
+          <option name="courseMode" value="Course Creator" />
           <option name="courseType" value="PyCharm" />
           <option name="createDate" value="1509021377000" />
           <option name="customPresentableName" />
@@ -68,7 +68,7 @@
                       <option name="index" value="1" />
                       <option name="name" value="Hello, world!" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Failed" />
+                      <option name="status" value="Unchecked" />
                       <option name="stepId" value="234720" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="files">
@@ -80,9 +80,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -98,13 +96,13 @@
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="&quot;OK&quot;" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Failed" />
+                                      <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun start(): String = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -175,9 +173,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -195,11 +191,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun toJSON(collection: Collection&lt;Int&gt;): String = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -254,9 +250,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -274,11 +268,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun joinOptions(options: Collection&lt;String&gt;) = options.joinToString(TODO())&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -333,9 +327,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -353,11 +345,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun foo(name: String, number: Int, toUpperCase: Boolean) =&#10;        (if (toUpperCase) name.toUpperCase() else name) + number&#10;&#10;fun useFoo() = listOf(&#10;        foo(&quot;a&quot;),&#10;        foo(&quot;b&quot;, number = 1),&#10;        foo(&quot;c&quot;, toUpperCase = true),&#10;        foo(name = &quot;d&quot;, number = 2, toUpperCase = true)&#10;)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -412,9 +404,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -432,11 +422,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun containsEven(collection: Collection&lt;Int&gt;): Boolean = collection.any { TODO() }&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -491,9 +481,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -511,11 +499,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="val month = &quot;(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)&quot;&#10;&#10;fun getPattern(): String = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -570,9 +558,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -590,11 +576,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class Person&#10;&#10;fun getPeople(): List&lt;Person&gt; {&#10;    return listOf(Person(&quot;Alice&quot;, 29), Person(&quot;Bob&quot;, 31))&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -649,9 +635,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -669,11 +653,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun sendMessageToClient(&#10;        client: Client?, message: String?, mailer: Mailer&#10;){&#10;    TODO()&#10;}&#10;&#10;class Client (val personalInfo: PersonalInfo?)&#10;class PersonalInfo (val email: String?)&#10;interface Mailer {&#10;    fun sendMessage(email: String, message: String)&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -728,9 +712,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -748,35 +730,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="101" />
+                                          <option name="offset" value="105" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="101" />
+                                      <option name="offset" value="105" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="eval(expr.left) + eval(expr.right)" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun eval(expr: Expr): Int =&#10;        when (expr) {&#10;            is Num -&gt; TODO()&#10;            is Sum -&gt; TODO()&#10;            else -&gt; throw IllegalArgumentException(&quot;Unknown expression&quot;)&#10;        }&#10;&#10;interface Expr&#10;class Num(val value: Int) : Expr&#10;class Sum(val left: Expr, val right: Expr) : Expr&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -831,9 +811,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -851,35 +829,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="78" />
+                                          <option name="offset" value="95" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="78" />
+                                      <option name="offset" value="95" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="RationalNumber(first, second)" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun Int.r(): RationalNumber = TODO()&#10;fun Pair&lt;Int, Int&gt;.r(): RationalNumber = TODO()&#10;&#10;data class RationalNumber(val numerator: Int, val denominator: Int)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -934,9 +910,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -954,11 +928,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import java.util.*&#10;&#10;fun getList(): List&lt;Int&gt; {&#10;    val arrayList = arrayListOf(1, 5, 2)&#10;    Collections.sort(arrayList, object {})&#10;    return arrayList&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1013,9 +987,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1033,11 +1005,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import java.util.*&#10;&#10;fun getList(): List&lt;Int&gt; {&#10;    val arrayList = arrayListOf(1, 5, 2)&#10;    Collections.sort(arrayList, { x, y -&gt; TODO() })&#10;    return arrayList&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1092,9 +1064,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1112,11 +1082,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun getList(): List&lt;Int&gt; {&#10;    return arrayListOf(1, 5, 2)//TODO(&quot;return the list sorted in descending order&quot;)&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1184,9 +1154,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1204,11 +1172,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="data class MyDate(val year: Int, val month: Int, val dayOfMonth: Int) : Comparable&lt;MyDate&gt; {&#10;    /* TODO */&#10;}&#10;&#10;fun compare(date1: MyDate, date2: MyDate) = date1 &lt; date2&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1279,9 +1247,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1299,11 +1265,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class DateRange(val start: MyDate, val endInclusive: MyDate)/* TODO */&#10;&#10;fun checkInRange(date: MyDate, first: MyDate, last: MyDate): Boolean {&#10;    return date in DateRange(first, last)&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1374,9 +1340,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1394,11 +1358,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="operator fun MyDate.rangeTo(other: MyDate) = TODO()&#10;&#10;class DateRange(override val start: MyDate, override val endInclusive: MyDate): ClosedRange&lt;MyDate&gt;&#10;&#10;fun checkInRange(date: MyDate, first: MyDate, last: MyDate): Boolean {&#10;    return date in first..last&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1485,9 +1449,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1505,11 +1467,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class DateRange(val start: MyDate, val end: MyDate)&#10;&#10;fun iterateOverDateRange(firstDate: MyDate, secondDate: MyDate, handler: (MyDate) -&gt; Unit) {&#10;    for (date in firstDate..secondDate) {&#10;        handler(date)&#10;    }&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1580,9 +1542,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1600,35 +1560,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="64" />
-                                          <option name="offset" value="318" />
+                                          <option name="offset" value="630" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="64" />
-                                      <option name="offset" value="318" />
+                                      <option name="offset" value="630" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO(&quot;Uncomment&quot;) //return today + YEAR * 2 + WEEK * 3 + DAY * 5" />
                                       <option name="possibleAnswer" value="return today + YEAR * 2 + WEEK * 3 + DAY * 5" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import TimeInterval.*&#10;&#10;data class MyDate(val year: Int, val month: Int, val dayOfMonth: Int)&#10;&#10;enum class TimeInterval { DAY, WEEK, YEAR }&#10;&#10;operator fun MyDate.plus(timeInterval: TimeInterval): MyDate = TODO()&#10;&#10;fun task1(today: MyDate): MyDate {&#10;    return today + YEAR + WEEK&#10;}&#10;&#10;fun task2(today: MyDate): MyDate {&#10;    TODO(&quot;Uncomment&quot;) //return today + YEAR * 2 + WEEK * 3 + DAY * 5&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1683,9 +1641,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1703,11 +1659,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="/* TODO */class MyDate(val year: Int, val month: Int, val dayOfMonth: Int)&#10;&#10;fun isLeapDay(date: MyDate): Boolean {&#10;&#10;    val (year, month, dayOfMonth) = date&#10;&#10;    // 29 February of a leap year&#10;    return year % 4 == 0 &amp;&amp; month == 2 &amp;&amp; dayOfMonth == 29&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1762,9 +1718,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1782,11 +1736,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class Invokable {&#10;    var numberOfInvocations: Int = 0&#10;        private set&#10;    operator fun invoke(): Invokable {&#10;        TODO()&#10;    }&#10;}&#10;&#10;fun invokeTwice(invokable: Invokable) = invokable()()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1870,9 +1824,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -1890,11 +1842,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun Shop.getSetOfCustomers(): Set&lt;Customer&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1981,9 +1933,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -2001,35 +1951,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="226" />
+                                          <option name="offset" value="253" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="226" />
+                                      <option name="offset" value="253" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.filter { it.city == city }" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return the set of cities the customers are from&#10;fun Shop.getCitiesCustomersAreFrom(): Set&lt;City&gt; = TODO()&#10;&#10;// Return a list of the customers who live in the given city&#10;fun Shop.getCustomersFrom(city: City): List&lt;Customer&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2116,9 +2064,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -2136,83 +2082,77 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="238" />
+                                          <option name="offset" value="265" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="238" />
+                                      <option name="offset" value="265" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.any { it.city == city }" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="2" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="347" />
+                                          <option name="offset" value="401" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="347" />
+                                      <option name="offset" value="401" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.count { it.city == city }" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="3" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="484" />
+                                          <option name="offset" value="567" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="484" />
+                                      <option name="offset" value="567" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.find { it.city == city }" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return true if all customers are from the given city&#10;fun Shop.checkAllCustomersAreFrom(city: City): Boolean = TODO()&#10;&#10;// Return true if there is at least one customer from the given city&#10;fun Shop.hasCustomerFrom(city: City): Boolean = TODO()&#10;&#10;// Return the number of customers from the given city&#10;fun Shop.countCustomersFrom(city: City): Int = TODO()&#10;&#10;// Return a customer who lives in the given city, or null if there is none&#10;fun Shop.findAnyCustomerFrom(city: City): Customer? = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2299,9 +2239,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -2319,35 +2257,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="222" />
+                                          <option name="offset" value="254" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="222" />
+                                      <option name="offset" value="254" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.flatMap { it.getOrderedProducts() }.toSet()" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return all products this customer has ordered&#10;fun Customer.getOrderedProducts(): Set&lt;Product&gt; = TODO()&#10;&#10;// Return all products that were ordered by at least one customer&#10;fun Shop.getAllOrderedProducts(): Set&lt;Product&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2434,9 +2370,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -2454,35 +2388,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="261" />
+                                          <option name="offset" value="289" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="261" />
+                                      <option name="offset" value="289" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="orders.flatMap { it.products }.maxBy { it.price }" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return a customer whose order count is the highest among all customers&#10;fun Shop.getCustomerWithMaximumNumberOfOrders(): Customer? = TODO()&#10;&#10;// Return the most expensive product which has been ordered&#10;fun Customer.getMostExpensiveOrderedProduct(): Product? = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2569,9 +2501,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -2589,11 +2519,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return a list of customers, sorted by the ascending number of orders they made&#10;fun Shop.getCustomersSortedByNumberOfOrders(): List&lt;Customer&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2680,9 +2610,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -2700,11 +2628,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return the sum of prices of all products that a customer has ordered.&#10;// Note: the customer may order the same product for several times.&#10;fun Customer.getTotalOrderPrice(): Double = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2791,9 +2719,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -2811,11 +2737,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return a map of the customers living in each city&#10;fun Shop.groupCustomersByCity(): Map&lt;City, List&lt;Customer&gt;&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2902,9 +2828,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -2922,11 +2846,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return customers who have more undelivered orders than delivered&#10;fun Shop.getCustomersWithMoreUndeliveredOrdersThanDelivered(): Set&lt;Customer&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3013,9 +2937,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -3033,11 +2955,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return the set of products that were ordered by every customer&#10;fun Shop.getSetOfProductsOrderedByEveryCustomer(): Set&lt;Product&gt; {&#10;    TODO()&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3124,9 +3046,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -3144,59 +3064,55 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="370" />
+                                          <option name="offset" value="446" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="370" />
+                                      <option name="offset" value="446" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="return customers.flatMap { it.getOrderedProductsList() }.count { it == product }" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="2" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="10" />
-                                          <option name="offset" value="380" />
+                                          <option name="offset" value="530" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="10" />
-                                      <option name="offset" value="380" />
+                                      <option name="offset" value="530" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="/* TODO */" />
                                       <option name="possibleAnswer" value="fun Customer.getOrderedProductsList(): List&lt;Product&gt; {&#10;    return orders.flatMap { it.products }&#10;}" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return the most expensive product among all delivered products&#10;// (use the Order.isDelivered flag)&#10;fun Customer.getMostExpensiveDeliveredProduct(): Product? {&#10;    TODO()&#10;}&#10;&#10;// Return how many times the given product was ordered.&#10;// Note: a customer may order the same product for several times.&#10;fun Shop.getNumberOfTimesProductWasOrdered(product: Product): Int {&#10;    TODO()&#10;}&#10;&#10;/* TODO */&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3283,9 +3199,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -3303,59 +3217,55 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="221" />
+                                          <option name="offset" value="223" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="221" />
+                                      <option name="offset" value="223" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="group.size" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="2" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="293" />
+                                          <option name="offset" value="299" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="293" />
+                                      <option name="offset" value="299" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="group.size == maximumSizeOfGroup" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun doSomethingStrangeWithCollection(collection: Collection&lt;String&gt;): Collection&lt;String&gt;? {&#10;&#10;    val groupsByLength = collection. groupBy { s -&gt; TODO() }&#10;&#10;    val maximumSizeOfGroup = groupsByLength.values.map { group -&gt; TODO() }.max()&#10;&#10;    return groupsByLength.values.firstOrNull { group -&gt; TODO() }&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3439,9 +3349,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -3459,11 +3367,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class PropertyExample() {&#10;    var counter = 0&#10;    var propertyWithCounter: Int? = null&#10;        set&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3518,9 +3426,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -3538,35 +3444,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="110" />
+                                          <option name="offset" value="122" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="110" />
+                                      <option name="offset" value="122" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="if (value == null) {&#10;                value = initializer()&#10;            }&#10;            return value!!" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class LazyProperty(val initializer: () -&gt; Int) {&#10;    /* TODO */&#10;    val lazy: Int&#10;        get() {&#10;            TODO()&#10;        }&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3621,9 +3525,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -3641,11 +3543,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class LazyProperty(val initializer: () -&gt; Int) {&#10;    val lazyValue: Int by TODO()&#10;}&#10;&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3716,9 +3618,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -3736,35 +3636,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="403" />
+                                          <option name="offset" value="427" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="403" />
+                                      <option name="offset" value="427" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="timeInMillis = value.toMillis()" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import kotlin.properties.ReadWriteProperty&#10;import kotlin.reflect.KProperty&#10;&#10;class D {&#10;    var date: MyDate by EffectiveDate()&#10;}&#10;&#10;class EffectiveDate&lt;R&gt; : ReadWriteProperty&lt;R, MyDate&gt; {&#10;&#10;    var timeInMillis: Long? = null&#10;&#10;    override fun getValue(thisRef: R, property: KProperty&lt;*&gt;): MyDate {&#10;        TODO()&#10;    }&#10;&#10;    override fun setValue(thisRef: R, property: KProperty&lt;*&gt;, value: MyDate) {&#10;        TODO()&#10;    }&#10;}&#10;&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3832,9 +3730,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -3852,35 +3748,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="112" />
+                                          <option name="offset" value="119" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="112" />
+                                      <option name="offset" value="119" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="this % 2 != 0" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun task(): List&lt;Boolean&gt; {&#10;    val isEven: Int.() -&gt; Boolean = { TODO() }&#10;    val isOdd: Int.() -&gt; Boolean = { TODO() }&#10;&#10;    return listOf(42.isOdd(), 239.isOdd(), 294823098.isEven())&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3935,9 +3829,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -3955,11 +3847,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import java.util.HashMap&#10;&#10;/* TODO */&#10;&#10;fun usage(): Map&lt;Int, String&gt; {&#10;    return buildMap {&#10;        put(0, &quot;0&quot;)&#10;        for (i in 1..10) {&#10;            put(i, &quot;$i&quot;)&#10;        }&#10;    }&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -4014,9 +3906,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -4034,11 +3924,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun &lt;T&gt; T.myApply(f: T.() -&gt; Unit): T { TODO() }&#10;&#10;fun createString(): String {&#10;    return StringBuilder().myApply {&#10;        append(&quot;Numbers: &quot;)&#10;        for (i in 1..10) {&#10;            append(i)&#10;        }&#10;    }.toString()&#10;}&#10;&#10;fun createMap(): Map&lt;Int, String&gt; {&#10;    return hashMapOf&lt;Int, String&gt;().myApply {&#10;        put(0, &quot;0&quot;)&#10;        for (i in 1..10) {&#10;            put(i, &quot;$i&quot;)&#10;        }&#10;    }&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -4093,9 +3983,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -4113,35 +4001,33 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="1" />
                                       <option name="initialState">
                                         <MyInitialState>
                                           <option name="length" value="6" />
-                                          <option name="offset" value="389" />
+                                          <option name="offset" value="404" />
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="6" />
-                                      <option name="offset" value="389" />
+                                      <option name="offset" value="404" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="for ((index, product) in products.withIndex()) {&#10;                tr {&#10;                    td (color = getCellColor(index, 0)) {&#10;                        text(product.description)&#10;                    }&#10;                    td (color = getCellColor(index, 1)) {&#10;                        text(product.price)&#10;                    }&#10;                    td (color = getCellColor(index, 2)) {&#10;                        text(product.popularity)&#10;                    }&#10;                }&#10;            }" />
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun renderProductTable(): String {&#10;    return html {&#10;        table {&#10;            tr /* TODO */{&#10;                td {&#10;                    text(&quot;Product&quot;)&#10;                }&#10;                td {&#10;                    text(&quot;Price&quot;)&#10;                }&#10;                td {&#10;                    text(&quot;Popularity&quot;)&#10;                }&#10;            }&#10;            val products = getProducts()&#10;            TODO()&#10;        }&#10;    }.toString()&#10;}&#10;&#10;fun getTitleColor() = &quot;#b9c9fe&quot;&#10;fun getCellColor(index: Int, row: Int) = if ((index + row) %2 == 0) &quot;#dce4ff&quot; else &quot;#eff2ff&quot;&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -4244,9 +4130,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -4264,11 +4148,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import Answer.*&#10;&#10;enum class Answer { a, b, c }&#10;&#10;val answers = mapOf&lt;Int, Answer?&gt;(&#10;        1 to null, 2 to null, 3 to null, 4 to null&#10;)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -4336,9 +4220,7 @@
                                   <list>
                                     <AnswerPlaceholder>
                                       <option name="hints">
-                                        <list>
-                                          <option value="" />
-                                        </list>
+                                        <list />
                                       </option>
                                       <option name="index" value="0" />
                                       <option name="initialState">
@@ -4356,11 +4238,11 @@
                                       <option name="selected" value="false" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
-                                      <option name="useLength" value="true" />
+                                      <option name="useLength" value="false" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import java.util.*&#10;&#10;fun partitionTo() = TODO()&#10;&#10;fun partitionWordsAndLines() {&#10;    val (words, lines) = listOf(&quot;a&quot;, &quot;a b&quot;, &quot;c&quot;, &quot;d e&quot;).&#10;            partitionTo(ArrayList&lt;String&gt;(), ArrayList()) { s -&gt; !s.contains(&quot; &quot;) }&#10;    words == listOf(&quot;a&quot;, &quot;c&quot;)&#10;    lines == listOf(&quot;a b&quot;, &quot;d e&quot;)&#10;}&#10;&#10;fun partitionLettersAndOtherSymbols() {&#10;    val (letters, other) = setOf('a', '%', 'r', '}').&#10;            partitionTo(HashSet&lt;Char&gt;(), HashSet()) { c -&gt; c in 'a'..'z' || c in 'A'..'Z'}&#10;    letters == setOf('a', 'r')&#10;    other == setOf('%', '}')&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
