@@ -1,0 +1,1 @@
+/Users/pnguyen/Desktop/GIT/github/jetbrains/intellij/Kotlin Koans/Properties/Properties/build/classes/java/main/PropertyExample.class

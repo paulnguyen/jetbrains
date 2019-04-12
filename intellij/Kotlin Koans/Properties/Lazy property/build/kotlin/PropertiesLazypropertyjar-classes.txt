@@ -1,0 +1,1 @@
+/Users/pnguyen/Desktop/GIT/github/jetbrains/intellij/Kotlin Koans/Properties/Lazy property/build/classes/java/main/LazyProperty.class
